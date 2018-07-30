@@ -36,9 +36,9 @@ Le caractère décentralisé de la blockchain, couplé avec sa sécurité et sa 
 
 On peut classer l’utilisation de la blockchain en trois catégories :
 
-Les applications pour le transfert d’actifs (utilisation monétaire, mais pas uniquement : titres, votes, actions, obligations…).
-Les applications de la blockchain en tant que registre : elle assure ainsi une meilleure traçabilité des produits et des actifs.
-Les smart contracts : il s’agit de programmes autonomes qui exécutent automatiquement les conditions et termes d’un contrat, sans nécessiter d’intervention humaine une fois démarrés.
+*Les applications pour le transfert d’actifs (utilisation monétaire, mais pas uniquement : titres, votes, actions, obligations…).
+*Les applications de la blockchain en tant que registre : elle assure ainsi une meilleure traçabilité des produits et des actifs.
+*Les smart contracts : il s’agit de programmes autonomes qui exécutent automatiquement les conditions et termes d’un contrat, sans nécessiter d’intervention humaine une fois démarrés.
 Les champs d’exploitation sont immenses : banques, assurance, santé et industrie pharmaceutique, supply chain de nombreux secteurs (agroalimentaire, luxe, commerce international, distribution, vins, aéronautique, automobile…), industrie musicale, énergie, immobilier, vote…
 
 Surtout, la blockchain ouvre la voie d’un nouveau web, le web décentralisé, et d’une nouvelle économie numérique, la token économie. Pour comprendre leurs enjeux, il est crucial d’éviter les caricatures au sujet des cryptoactifs, qui sont au coeur de cette révolution.
