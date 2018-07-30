@@ -7,7 +7,7 @@ La blockchain est une technologie de stockage et de transmission d’information
 
 Par extension, une blockchain constitue une base de données qui contient l’historique de tous les échanges effectués entre ses utilisateurs depuis sa création. Cette base de données est sécurisée et distribuée : elle est partagée par ses différents utilisateurs, sans intermédiaire, ce qui permet à chacun de vérifier la validité de la chaîne.
 
-!(blck-schema.png)
+!(../Workshop-blockchain/blockchain/blck-schema.png)
 
 Il existe des blockchains publiques, ouvertes à tous, et des blockchains privées, dont l’accès et l’utilisation sont limitées à un certain nombre d’acteurs.
 
@@ -27,7 +27,7 @@ Les transactions effectuées entre les utilisateurs du réseau sont regroupées 
 
 Une fois le bloc validé, il est horodaté et ajouté à la chaîne de blocs. La transaction est alors visible pour le récepteur ainsi que l’ensemble du réseau.
 
-!(block.png)
+!(../Workshop-blockchain/blockchain/block.png)
 
 Ce processus prend un certain temps selon la blockchain dont on parle (environ une dizaine de minutes pour bitcoin, 15 secondes pour Ethereum).
 
