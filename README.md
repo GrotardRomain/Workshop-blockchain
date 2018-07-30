@@ -13,12 +13,14 @@ Il existe des blockchains publiques, ouvertes à tous, et des blockchains privé
 
 Une blockchain publique peut donc être assimilée à un grand livre comptable public, anonyme et infalsifiable. Comme l’écrit le mathématicien Jean-Paul Delahaye, il faut s’imaginer « un très grand cahier, que tout le monde peut lire librement et gratuitement, sur lequel tout le monde peut écrire, mais qui est impossible à effacer et indestructible. »
 
-##Situer la blockchain
+#Situer la blockchain
+
 La première blockchain est apparue en 2008 avec la monnaie numérique bitcoin, développée par un inconnu se présentant sous le pseudonyme Satoshi Nakamoto. Elle en est l’architecture sous-jacente.
 
 Si blockchain et bitcoin ont été construits ensemble, aujourd’hui de nombreux acteurs (entreprises, gouvernements, etc) envisagent l’utilisation de la technologie blockchain pour d’autres cas que la monnaie numérique.
 
-##Comment ça marche ?
+#Comment ça marche ?
+
 Toute blockchain publique fonctionne nécessairement avec une monnaie ou un token (jeton) programmable. Bitcoin est un exemple de monnaie programmable.
 
 Les transactions effectuées entre les utilisateurs du réseau sont regroupées par blocs. Chaque bloc est validé par les noeuds du réseau appelés les “mineurs”, selon des techniques qui dépendent du type de blockchain. Dans la blockchain du bitcoin cette technique est appelée le “Proof-of-Work”, preuve de travail, et consiste en la résolution de problèmes algorithmiques.
